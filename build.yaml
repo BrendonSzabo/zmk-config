@@ -19,6 +19,4 @@
 #
 ---
 include:
-  - board: bt75_v1
-include:
-  - board: bt75_v1
+  - board: ["bt75_v1","nice_nano_v2"]
